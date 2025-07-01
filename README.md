@@ -18,5 +18,5 @@ A fully responsive landing page built using HTML and CSS, designed to work seaml
 - Responsive Web Design (Media Queries, Flexbox)
 
 🔗 Live Demo:
-👉 https://pixelpiratey.github.io/Responsive_Landing_Page
+👉 https://pixelpiratey.github.io/PRODIGY_WD_01/
 
